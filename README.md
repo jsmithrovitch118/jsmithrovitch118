@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joe
 - 👀 I’m interested in A.I, Robotics and Blockchain
-- 🌱 I’m currently learning Distributed Ledger Technology
+- 🌱 I’m currently learning Distributed Ledger Technology - Solidity, React, web3.js
 - 💞️ I’m looking to collaborate on Blockchain Dev
 - 📫 How to reach me Jsmithrovitch118@Gmail.com
 
