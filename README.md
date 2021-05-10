@@ -5,6 +5,3 @@
 - 📫 How to reach me Jsmithrovitch118@Gmail.com
 - 🤯 Fact about me - I am a former Welding Engineer and business owner 
 
-jsmithrovitch118/jsmithrovitch118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
